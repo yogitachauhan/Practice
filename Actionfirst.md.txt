@@ -2,3 +2,6 @@ Yogita learning GIT
 Action started first practice
 
 added remote file
+
+
+adde from local when forget to pull
